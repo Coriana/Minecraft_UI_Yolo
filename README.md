@@ -21,7 +21,10 @@ Dataset is 60 images and is at:
 https://app.roboflow.com/corianas/minecraft-ui2/overview
 and should be public already.
 
+Demo video: https://youtu.be/MWcVtviWeLc
 
+
+----
 
 
 HP_Hunger_n.pt
