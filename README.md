@@ -1,7 +1,7 @@
 # Minecraft_UI_Yolo
 UI Reader using YOLOv5
 
-MC_UI_S.pt + MC_UI_N.pt detect:
+MC_UI_S.pt/MC_UI_N.pt detect:
 
 - AllRecipies
 - CraftableRecipies
